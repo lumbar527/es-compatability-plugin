@@ -1,1 +1,13 @@
 I do not have any claim to the copyright in this plugin. Please refer to [https://github.com/endless-sky/endless-sky/blob/master/copyright] for more information.
+-----------------------
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: data/*
+Copyright: Michael Zahniser
+License: GPL-3+
+
+Files:
+ images/outfit/blue?screwdriver*
+ images/outfit/red?screwdriver*
+Copyright: Unclear
+License: Unclear
