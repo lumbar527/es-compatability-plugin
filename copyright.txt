@@ -9,8 +9,8 @@ License: GPL-3+
 Files:
  images/outfit/blue?screwdriver*
  images/outfit/red?screwdriver*
-Copyright: Unclear
-License: Unclear
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
 
 Files:
  images/outfit/railgun*
