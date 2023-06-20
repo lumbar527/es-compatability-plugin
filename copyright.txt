@@ -11,3 +11,11 @@ Files:
  images/outfit/red?screwdriver*
 Copyright: Unclear
 License: Unclear
+
+Files:
+ images/outfit/railgun*
+ images/outfit/railslug*
+ images/projectile/rail?slug*
+Copyright: 1010todd
+Comment: Derived from works by Matthew Smestad (under the same license).
+License: CC-BY-SA-4.0
